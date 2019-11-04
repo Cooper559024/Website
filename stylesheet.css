@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Roboto&display=swap");
+html{
+    background-image: url("media/background.jpg");
+}
+body{
+    margin:0;
+    padding:0;
+}
+
+
+#grid{
+    display: grid;
+    width:100vw; 
+    height: 100vh; 
+    grid-template-columns: 1fr 3fr 1fr; 
+    grid-template-rows: 1fr 5fr 1fr; 
+}
+
+
+#grid > *{
+    border: 1px solid black;
+}
+
+#portrait_img{
+    width: 200px;
+    text-align: center;
+}
+
+.image{
+    margin: 0% 5%;
+    text-align: center;
+    max-width: 25%;
+}
+
+
+header{
+    font-family: 'Lato';
+    grid-column: 1/4;
+}
+
+
+footer{
+    font-family: 'Roboto';
+    grid-column: 1/4;
+}
+
+
+nav ul{
+    font-family: 'Roboto';
+    list-style-type: none;
+}
+
+
+h1, h2{
+    font-family: 'Lato';
+    width:100%;
+    text-align: center;
+    margin:auto;
+}
+
+
+main p{
+    font-family: 'Roboto';
+    padding-top: 30px;
+    width:90%;
+    margin:auto;
+}
+
+aside ul{
+    font-family: 'Roboto';
+    list-style-type: circle;
+}

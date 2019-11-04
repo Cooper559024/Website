@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Roboto&display=swap");
+html{
+    background-image: url("media/background.jpg");
+}
+body{
+    margin:0;
+    padding:0;
+}
+
+#wrapper > *{
+    border: 1px solid black;
+    width:80%;
+    margin:auto;
+}
+
+h1, h2{
+    font-family: 'Lato';
+    text-align:center;
+}
+
+nav{
+    font-family: 'Roboto';
+    text-align: right;
+}
+
+nav a{
+    font-family: 'Roboto';
+    padding-right:10px;
+}
+main p{
+    font-family: 'Roboto';
+}
