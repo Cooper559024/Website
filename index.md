@@ -16,7 +16,7 @@
             <p>Hello and welcome to my Website. Here you will find an amalgamation of all of my projects and information about me.</p>
         </text>
         <footer>
-            <p><a href="About.html">About</a> <a href="Projects.html">Projects</a></p>
+            <p><a href="About.html">About</a> <a href="Projects.html">Projects</a> <a href="FireAd.html">Ad</a></p>
         </footer>
     </body>
 </html>
