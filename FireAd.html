@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en"></html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+        <h1>Title</h1>
+        <video controls="" width="320" height="240">
+            <source src="Media/IGME%20110%20AD.mp4" type="video/mp4">
+        </video>
+        <p></p>
+        <img src="" alt="Proof of work" width="320" height="240">
+        <h2>Sources</h2>
+        <dl>
+            <dt>
+                <a href="https://www.pexels.com/video/burning-firewood-1535674/">Burning Firewood</a>
+            </dt>
+            <dd>
+                <video controls="" width="320" height="240">
+                    <source src="media/Pexels%20Videos%201535674.mp4" type="video/mp4">
+                </video>
+                <p>By: Motion Places - Free Stock Video</p>
+            </dd>
+            <dt>
+                <a href="https://www.pexels.com/video/a-cup-of-coffee-from-a-coffee-making-machine-2849996/">Coffee from a coffee machine</a>
+            </dt>
+            <dd>
+                <video controls="" width="320" height="240">
+                    <source src="media/video.mp4" type="video/mp4">
+                </video>
+                <p>By: KML</p>
+            </dd>
+            <dt>
+                <a href="https://www.pexels.com/video/close-up-view-of-spaghetti-noodles-1793156/">Close up of Spaghetti</a>
+            </dt>
+            <dd>
+                <video controls="" width="320" height="240">
+                    <source src="media/Pexels%20Videos%201793156.mp4" type="video/mp4">
+                </video>
+                <p>By: Miguel Á. Padriñán</p>
+            </dd>
+            <dt>
+                <a href="https://www.youtube.com/audiolibrary/music?nv=1">Background Music: If I Had a Chicken</a>                
+            </dt>
+            <dd>
+                <audio controls="">
+                    <source src="Media/If_I_Had_a_Chicken.mp3" type="audio/mp3">
+                </audio>
+            </dd>
+            <dt>Self-recorded audio</dt>
+            <dd>
+                <audio controls="">
+                    <source src="Media/ad%20voiceover.mp3" type="audio/mp3">
+                </audio>
+            </dd>
+        </dl>
+    </body>
